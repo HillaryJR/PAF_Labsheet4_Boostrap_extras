@@ -20,7 +20,13 @@
 </head>
 <body>
 
-
+<div class="container-fluid">
+ <h1>My First Bootstrap Page</h1>
+ <p>This part is inside a .container-fluid class.</p>
+ <p>The .container-fluid class provides a full width container, spanning the entire width
+of the viewport.</p>
+</div>
+<hr>
 
 
 <div class="container">
