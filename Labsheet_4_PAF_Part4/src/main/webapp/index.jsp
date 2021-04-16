@@ -19,6 +19,17 @@
 <title>Insert title here</title>
 </head>
 <body>
+<div class = "container">
+
+<div class="row">
+<h1>Lighter, Secondary Text</h1>
+ <p>The small element is used to create a lighter,
+secondary text in any heading:</p>
+ <h1>h1 heading <small>secondarytext</small></h1> 
+</div> 
+ 
+ <hr> 
+
 
  <h1>Two Unequal Columns </h1>
  <div class="row">
@@ -54,7 +65,7 @@ of the viewport.</p>
 <hr> 
 
 
-
+</div>
 
 </body>
 </html>
