@@ -20,6 +20,15 @@
 </head>
 <body>
 
+<h1>Three Equal Columns </h1>
+ <div class="row">
+ <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+ <div class="col-sm-4" style="background-color:lavenderblush;">.col-sm-4</div>
+ <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+ </div>
+<hr> 
+
+
 <div class="container-fluid">
  <h1>My First Bootstrap Page</h1>
  <p>This part is inside a .container-fluid class.</p>
